@@ -20,6 +20,8 @@ KeTMangi è un'applicazione Flutter che rivoluziona il modo in cui le persone pi
 - **GoRouter** — Navigation
 - **Material Design 3** — UI components
 
+> 📖 Per l'analisi completa Flutter vs React Native per questo progetto, vedi [TECH_DECISION.md](TECH_DECISION.md)
+
 ## Struttura Progetto
 
 ```
